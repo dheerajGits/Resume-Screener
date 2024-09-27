@@ -74,6 +74,7 @@ You will set up a Kubernetes cluster (using MiniKube) with two applications, a P
    - Ensure Docker is installed and running on your system. If not already installed, download and install Docker from the [official Docker website](https://www.docker.com/get-started).
 
 2. **Install and Start Minikube**
+   - Install Kubectl
    - Install Minikube on your local machine by following the instructions on the [Minikube installation page](https://minikube.sigs.k8s.io/docs/start/).
    - Start a Minikube cluster:
      ```bash
@@ -81,15 +82,15 @@ You will set up a Kubernetes cluster (using MiniKube) with two applications, a P
      ```
    - Set up the Kubernetes cluster using Minikube.
 
-3. **Clone Sample Applications**
+4. **Clone Sample Applications**
    - Clone the following two sample application codes and use the respective databases (MySQL and PostgreSQL) for these applications:
      - [app-1](https://github.com/tanishsummit/PyEditorial)
      - [app-2](https://github.com/manjillama/docker-node-crud-mysql)
 
-4. **Create Kubernetes Deployments and Services**
+5. **Create Kubernetes Deployments and Services**
    - Create Kubernetes deployments and services for both applications and the MySQL/PostgreSQL databases.
    - Ensure the applications are running on different ports.
 
-5. **Sanity Check**
+6. **Sanity Check**
    - Once the apps and databases are deployed, verify they are running correctly by accessing their endpoints.
    - Take a basic functionality check for both applications to ensure everything is set up properly.
