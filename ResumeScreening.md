@@ -34,3 +34,7 @@ HR teams often manually review a high volume of resumes to identify qualified ca
 - **RPA Platforms (e.g., UiPath):** Additional points for leveraging RPA tools to automate workflows and reduce manual intervention.
 - Microsoft Excel for data manipulation
 - Email Platforms (e.g., Outlook, Gmail) for communication and report distribution
+
+## Links:
+- [Resume Screening Pre-Requisites](https://github.com/stg-india/hackathon-september-2024/tree/96f5d2a6c61335901bfe7180bb9617aaf2de9f41/ResumeScreening%20-%20PreRequisites)  
+- **Microsoft Form:** [Link to Form](https://forms.office.com/r/LDWeShviUF)
