@@ -46,4 +46,10 @@ Develop a machine learning model to detect and classify image forgeries (such as
    - Provide reliable confidence scores for each classification and localization task.
 5. **Processing Efficiency**:
    - Speed and scalability in handling large image datasets, including time per batch and overall processing time.
+
+### Dataset:
+CASIA v2.0 Dataset:
+Contains a wide variety of manipulated and authentic images, including splicing and copy-move forgery.
+https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
+
 ---
