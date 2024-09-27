@@ -37,7 +37,7 @@ You will set up a Kubernetes cluster (using MiniKube) with two applications, a P
 
 > **Note:** You must build the dashboard from scratch. Using pre-built tools like Grafana is not preferred.
 
-### Database Metrics Monitoring (Optional)
+### Database Metrics Monitoring
 - Collect metrics from the PostgreSQL database (e.g., query performance or resource usage).
 - Use tools like Fluent Bit to collect these metrics and display them alongside your logs.
 
@@ -45,10 +45,6 @@ You will set up a Kubernetes cluster (using MiniKube) with two applications, a P
 - You will be provided access to some AWS resources via AWS access keys.
 - Collect logs or metrics from the AWS resources and integrate them into your backend.
 - Show how AWS data combined with Kubernetes pod logs improves your monitoring platform.
-
-### Simulated Traffic (Bonus)
-- A script will be provided to simulate user traffic to your app, generating logs and metrics.
-- Your monitoring tool should help identify issues or performance problems from this traffic.
 
 ### Efficient Searching Capabilities (Bonus)
 - Add powerful features like keyword-based search, filters, and tags to streamline the search process.
@@ -68,9 +64,7 @@ You will set up a Kubernetes cluster (using MiniKube) with two applications, a P
 - **Usability:** Is the dashboard easy to use?
 - **Completeness:** Does the tool provide useful insights and is it well-structured?
 
-**Bonus Points:**
-- Integration of AWS logs and metrics.
-- Simulated traffic identification.
+**Bonus Point:**
 - Efficient search and filtering capabilities.
 
 ---
