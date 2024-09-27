@@ -1,4 +1,4 @@
-# hackathon-september-2024
+# Hackathon-september-2024
 
 ## Guidelines 
 - Teams have to create a fork of this particular repo on start of hackathon.
@@ -22,3 +22,5 @@ Team can chose ONE of the topic from below and work on that.
 - [Scenario - 2: Infra Monitoring Tool](InfraMonitor.md)
 
 - [Scenario - 3: Resume Screener](ResumeScreening.md)
+  
+- [Scenario - 4: KYC Platform](KYCPlatform.md)
