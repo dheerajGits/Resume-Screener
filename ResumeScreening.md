@@ -30,8 +30,7 @@ HR teams often manually review a high volume of resumes to identify qualified ca
    - Maintain comprehensive logs to track errors, processed items, and system performance, enabling efficient auditing and troubleshooting.
 
 ## Tools & Technologies:
-- Programming Languages (e.g., Python, Java)
-- **RPA Platforms (e.g., UiPath):** Additional points for leveraging RPA tools to automate workflows and reduce manual intervention.
+- **RPA Platforms (e.g., UiPath):** 
 - Microsoft Excel for data manipulation
 - Email Platforms (e.g., Outlook, Gmail) for communication and report distribution
 
