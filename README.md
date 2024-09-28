@@ -19,7 +19,7 @@ Team can chose ONE of the topic from below and work on that.
 
 - [Scenario - 1: Image Forgery](ImageForgery.md)
 
-- [Scenario - 2: Infra Monitoring Tool](InfraMonitor.md)
+- [Scenario - 2: Infra Monitoring Tool](InfraMonitor/InfraMonitor.md)
 
 - [Scenario - 3: Resume Screener](ResumeScreening.md)
   
